@@ -54,8 +54,8 @@ function sound(key){
   break;
 
   case "e" :
-  var kick=new Audio("kick_bass.mp3");
-  kick.play();
+  var k=new Audio("kick_bass.mp3");
+  k.play();
   break;
 
 
